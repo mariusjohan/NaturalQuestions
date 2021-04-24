@@ -1,0 +1,6 @@
+__pycache__/
+venv/
+cache/
+model/
+data/
+test.py
